@@ -1,6 +1,6 @@
 # pycounts_bb
 
-Calculate words in a text file
+Calculates words in a text file.
 
 ## Installation
 
